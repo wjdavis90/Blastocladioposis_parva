@@ -1,2 +1,0 @@
-#SampleID	BarcodeSequence	LinkerPrimerSequence	Treatment	ReversePrimer	DOB	Description
-ITX26	TCAGTTACAACCTC	GATCCCGCTGAACTTAAGC	Bparva	TACTTGTDCGCTATCGGTCTC	2014B

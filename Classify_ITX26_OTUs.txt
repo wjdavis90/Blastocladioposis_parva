@@ -1,0 +1,78 @@
+denovo1063		Root	rootrank	1.0	Fungi	domain	1.0	Fungi incertae sedis	phylum	1.0	Zygomycota incertae sedis	class	1.0	Mortierellales	order	1.0	Mortierellaceae	family	1.0	Mortierella	genus	0.52
+denovo1160		Root	rootrank	1.0	Fungi	domain	0.99	Fungi incertae sedis	phylum	0.73	Zygomycota incertae sedis	class	0.73	Mortierellales	order	0.72	Mortierellaceae	family	0.72	Gamsiella	genus	0.41
+denovo1239		Root	rootrank	1.0	Fungi	domain	1.0	Fungi incertae sedis	phylum	1.0	Zygomycota incertae sedis	class	1.0	Mortierellales	order	1.0	Mortierellaceae	family	1.0	Mortierella	genus	0.74
+denovo124		Root	rootrank	1.0	Fungi	domain	0.95	Chytridiomycota	phylum	0.85	Chytridiomycetes	class	0.85	Polychytriales	order	0.79	Polychytriales incertae sedis	family	0.79	Polychytriales incertae sedis	genus	0.49
+denovo126		Root	rootrank	1.0	Fungi	domain	0.63	Ascomycota	phylum	0.19	Pneumocystidomycetes	class	0.17	Pneumocystidales	order	0.17	Pneumocystidaceae	family	0.17	Pneumocystis	genus	0.17
+denovo1264		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Pythiales	order	1.0	Pythiaceae	family	1.0	Pythium	genus	1.0
+denovo1284		Root	rootrank	1.0	Fungi	domain	0.75	Blastocladiomycota	phylum	0.65	Blastocladiomycetes	class	0.65	Blastocladiales	order	0.65	Blastocladiaceae	family	0.61	Blastocladiella	genus	0.6
+denovo1395		Root	rootrank	1.0	Fungi	domain	1.0	Chytridiomycota	phylum	1.0	Chytridiomycetes	class	1.0	Chytridiales	order	1.0	Chytriomycetaceae	family	1.0	Avachytrium	genus	0.43
+denovo1415		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.91	Stramenopiles	phylum	0.91	Synurophyceae	class	0.44	Synurophyceae incertae sedis	genus	0.44
+denovo1419		Root	rootrank	1.0	Fungi	domain	1.0	Basidiomycota	phylum	1.0	Agaricomycetes	class	1.0	Agaricales	order	1.0	Entolomataceae	family	0.98	Nolanea	genus	0.77
+denovo144		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.92	Stramenopiles	phylum	0.92	Chrysophyceae	class	0.48	Chrysophyceae incertae sedis	genus	0.48
+denovo1487		Root	rootrank	1.0	Amoebozoa	domain	0.45	Flabellinea	phylum	0.41	Flabellinea incertae sedis	genus	0.41
+denovo1552		Root	rootrank	1.0	Fungi	domain	0.49	Ascomycota	phylum	0.23	Pneumocystidomycetes	class	0.13	Pneumocystidales	order	0.13	Pneumocystidaceae	family	0.13	Pneumocystis	genus	0.13
+denovo1615		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.92	Stramenopiles	phylum	0.92	Synurophyceae	class	0.83	Synurophyceae incertae sedis	genus	0.83
+denovo1621		Root	rootrank	1.0	Fungi	domain	0.91	Glomeromycota	phylum	0.47	Archaeosporomycetes	class	0.43	Archaeosporales	order	0.43	Ambisporaceae	family	0.39	Ambisporaceae incertae sedis	genus	0.39
+denovo1870		Root	rootrank	1.0	Fungi	domain	1.0	Fungi incertae sedis	phylum	0.99	Zygomycota incertae sedis	class	0.99	Mortierellales	order	0.99	Mortierellaceae	family	0.99	Gamsiella	genus	0.42
+denovo1995		Root	rootrank	1.0	Fungi	domain	1.0	Basidiomycota	phylum	1.0	Agaricomycetes	class	1.0	Agaricales	order	1.0	Schizophyllaceae	family	0.98	Henningsomyces	genus	0.98
+denovo2017		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Pythiales	order	0.95	Pythiaceae	family	0.95	Pythium	genus	0.93
+denovo2114		Root	rootrank	1.0	Fungi	domain	0.94	Blastocladiomycota	phylum	0.93	Blastocladiomycetes	class	0.93	Blastocladiales	order	0.93	Blastocladiaceae	family	0.75	Blastocladiella	genus	0.72
+denovo2155		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	0.98	Hypocreales	order	0.74	Nectriaceae	family	0.56	Cylindrocladium	genus	0.31
+denovo2161		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.66	Stramenopiles	phylum	0.66	Chrysophyceae	class	0.58	Chrysophyceae incertae sedis	genus	0.58
+denovo219		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	1.0	Diaporthales	order	0.77	Valsaceae	family	0.57	Phomopsis	genus	0.42
+denovo220		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Pythiales	order	1.0	Pythiaceae	family	1.0	Pythium	genus	0.99
+denovo2201		Root	rootrank	1.0	Fungi	domain	0.88	Ascomycota	phylum	0.58	Eurotiomycetes	class	0.17	Chaetothyriales	order	0.17	Herpotrichiellaceae	family	0.17	Cladoriella	genus	0.16
+denovo2240		Root	rootrank	1.0	Fungi	domain	0.79	Ascomycota	phylum	0.71	Eurotiomycetes	class	0.11	Verrucariales	order	0.1	Verrucariaceae	family	0.1	Clavascidium	genus	0.1
+denovo2252		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	1.0	Hypocreales	order	1.0	Cordycipitaceae	family	0.3	Cordyceps	genus	0.3
+denovo2298		Root	rootrank	1.0	Fungi	domain	1.0	Basidiomycota	phylum	1.0	Agaricomycetes	class	1.0	Russulales	order	1.0	Russulaceae	family	1.0	Russula	genus	1.0
+denovo232		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	0.99	Hypocreales	order	0.93	Clavicipitaceae	family	0.66	Paecilomyces	genus	0.25
+denovo2331		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.95	Stramenopiles	phylum	0.95	Chrysophyceae	class	0.57	Chrysophyceae incertae sedis	genus	0.57
+denovo236		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Pythiales	order	1.0	Pythiaceae	family	1.0	Pythium	genus	1.0
+denovo2367		Root	rootrank	1.0	Fungi	domain	1.0	Chytridiomycota	phylum	1.0	Chytridiomycetes	class	1.0	Rhizophydiales	order	1.0	Rhizophydiales incertae sedis	family	0.68	Rhizophydiales incertae sedis	genus	0.68
+denovo2409		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	1.0	Sordariales	order	1.0	Lasiosphaeriaceae	family	1.0	Immersiella	genus	0.88
+denovo2418		Root	rootrank	1.0	Fungi	domain	1.0	Fungi incertae sedis	phylum	0.87	Zygomycota incertae sedis	class	0.87	Mortierellales	order	0.84	Mortierellaceae	family	0.84	Dissophora	genus	0.43
+denovo2484		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Leotiomycetes	class	0.82	Helotiales	order	0.69	Helotiaceae	family	0.17	Chloroscypha	genus	0.1
+denovo2506		Root	rootrank	1.0	Animalia	domain	0.6	Metazoa	phylum	0.6	Platyhelminthes	class	0.35	Platyhelminthes incertae sedis	genus	0.35
+denovo2523		Root	rootrank	1.0	Animalia	domain	0.77	Metazoa	phylum	0.77	Ecdysozoa	class	0.3	Ecdysozoa incertae sedis	genus	0.3
+denovo2541		Root	rootrank	1.0	Fungi	domain	0.91	Fungi incertae sedis	phylum	0.79	Zygomycota incertae sedis	class	0.79	Mortierellales	order	0.66	Mortierellaceae	family	0.66	Lobosporangium	genus	0.19
+denovo2565		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.99	Stramenopiles	phylum	0.99	Synurophyceae	class	0.99	Synurophyceae incertae sedis	genus	0.99
+denovo2567		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	1.0	Hypocreales	order	0.97	Nectriaceae	family	0.89	Gibberella	genus	0.77
+denovo2607		Root	rootrank	1.0	Fungi	domain	0.65	Neocallimastigomycota	phylum	0.28	Neocallimastigomycetes	class	0.28	Neocallimastigales	order	0.28	Neocallimastigaceae	family	0.28	Cyllamyces	genus	0.26
+denovo2712		Root	rootrank	1.0	Fungi	domain	0.82	Ascomycota	phylum	0.48	Pneumocystidomycetes	class	0.26	Pneumocystidales	order	0.26	Pneumocystidaceae	family	0.26	Pneumocystis	genus	0.26
+denovo2766		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.97	Stramenopiles	phylum	0.97	Synurophyceae	class	0.9	Synurophyceae incertae sedis	genus	0.9
+denovo2795		Root	rootrank	1.0	Fungi	domain	0.87	Fungi incertae sedis	phylum	0.75	Zygomycota incertae sedis	class	0.75	Mortierellales	order	0.59	Mortierellaceae	family	0.59	Lobosporangium	genus	0.27
+denovo2842		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Hyphochytriomycetes	class	1.0	Hyphochytriomycetes incertae sedis	genus	1.0
+denovo2863		Root	rootrank	1.0	Fungi	domain	1.0	Fungi incertae sedis	phylum	1.0	Zygomycota incertae sedis	class	1.0	Mortierellales	order	1.0	Mortierellaceae	family	1.0	Mortierella	genus	0.61
+denovo2887		Root	rootrank	1.0	Fungi	domain	0.53	Chytridiomycota	phylum	0.11	Chytridiomycetes	class	0.11	Spizellomycetales	order	0.1	Olpidiaceae	family	0.05	Olpidium	genus	0.05
+denovo2945		Root	rootrank	1.0	Fungi	domain	0.87	Chytridiomycota	phylum	0.49	Chytridiomycetes	class	0.49	Spizellomycetales	order	0.47	Spizellomycetaceae	family	0.35	Spizellomyces	genus	0.33
+denovo2971		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	1.0	Hypocreales	order	0.82	Clavicipitaceae	family	0.67	Paecilomyces	genus	0.25
+denovo3024		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Leotiomycetes	class	0.95	Helotiales	order	0.69	Helotiales incertae sedis	family	0.48	Hyalodendriella	genus	0.32
+denovo3032		Root	rootrank	1.0	Fungi	domain	1.0	Chytridiomycota	phylum	1.0	Chytridiomycetes	class	1.0	Rhizophydiales	order	1.0	Gorgonomycetaceae	family	1.0	Gorgonomyces	genus	1.0
+denovo3063		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Pythiales	order	0.99	Pythiaceae	family	0.99	Pythium	genus	0.99
+denovo310		Root	rootrank	1.0	Fungi	domain	0.97	Fungi incertae sedis	phylum	0.72	Zygomycota incertae sedis	class	0.72	Mortierellales	order	0.57	Mortierellaceae	family	0.57	Gamsiella	genus	0.34
+denovo3164		Root	rootrank	1.0	Fungi	domain	0.61	Blastocladiomycota	phylum	0.24	Blastocladiomycetes	class	0.24	Blastocladiales	order	0.24	Blastocladiaceae	family	0.17	Microallomyces	genus	0.09
+denovo3340		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Pythiales	order	0.95	Pythiaceae	family	0.95	Pythium	genus	0.92
+denovo341		Root	rootrank	1.0	Fungi	domain	0.81	Chytridiomycota	phylum	0.34	Chytridiomycetes	class	0.34	Spizellomycetales	order	0.33	Spizellomycetaceae	family	0.24	Spizellomyces	genus	0.12
+denovo3445		Root	rootrank	1.0	Fungi	domain	0.79	Fungi incertae sedis	phylum	0.43	Zygomycota incertae sedis	class	0.43	Harpellales	order	0.21	Legeriomycetaceae	family	0.12	Smittium	genus	0.09
+denovo3486		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	0.98	Hypocreales	order	0.81	Nectriaceae	family	0.37	Gibberella	genus	0.36
+denovo3545		Root	rootrank	1.0	Amoebozoa	domain	0.26	Flabellinea	phylum	0.24	Flabellinea incertae sedis	genus	0.24
+denovo3716		Root	rootrank	1.0	Fungi	domain	0.75	Chytridiomycota	phylum	0.31	Chytridiomycetes	class	0.31	Spizellomycetales	order	0.29	Spizellomycetaceae	family	0.22	Gaertneriomyces	genus	0.13
+denovo3896		Root	rootrank	1.0	Eukaryota incertae sedis	domain	0.68	Stramenopiles	phylum	0.68	Oomycetes	class	0.68	Pythiales	order	0.52	Pythiaceae	family	0.52	Pythium	genus	0.52
+denovo3929		Root	rootrank	1.0	Fungi	domain	0.98	Fungi incertae sedis	phylum	0.96	Zygomycota incertae sedis	class	0.96	Mortierellales	order	0.96	Mortierellaceae	family	0.96	Gamsiella	genus	0.76
+denovo3957		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Oomycetes incertae sedis	genus	1.0
+denovo396		Root	rootrank	1.0	Eukaryota incertae sedis	domain	1.0	Stramenopiles	phylum	1.0	Oomycetes	class	1.0	Saprolegniales	order	0.88	Saprolegniaceae	family	0.88	Aphanomyces	genus	0.65
+denovo4036		Root	rootrank	1.0	Fungi	domain	1.0	Chytridiomycota	phylum	1.0	Chytridiomycetes	class	1.0	Rhizophydiales	order	1.0	Gorgonomycetaceae	family	1.0	Gorgonomyces	genus	1.0
+denovo4203		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Dothideomycetes	class	1.0	Capnodiales	order	1.0	Mycosphaerellaceae	family	1.0	Septoria	genus	0.97
+denovo4255		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Leotiomycetes	class	1.0	Helotiales	order	1.0	Sclerotiniaceae	family	0.94	Mitrula	genus	0.94
+denovo4410		Root	rootrank	1.0	Animalia	domain	0.63	Metazoa	phylum	0.63	Ecdysozoa	class	0.2	Ecdysozoa incertae sedis	genus	0.2
+denovo462		Root	rootrank	1.0	Animalia	domain	0.47	Metazoa	phylum	0.47	Ecdysozoa	class	0.4	Ecdysozoa incertae sedis	genus	0.4
+denovo519		Root	rootrank	1.0	Fungi	domain	0.53	Blastocladiomycota	phylum	0.45	Blastocladiomycetes	class	0.45	Blastocladiales	order	0.45	Blastocladiaceae	family	0.44	Blastocladiella	genus	0.29
+denovo567		Root	rootrank	1.0	Fungi	domain	0.85	Blastocladiomycota	phylum	0.33	Blastocladiomycetes	class	0.33	Blastocladiales	order	0.33	Blastocladiaceae	family	0.28	Microallomyces	genus	0.28
+denovo568		Root	rootrank	1.0	Fungi	domain	1.0	Ascomycota	phylum	1.0	Sordariomycetes	class	0.99	Hypocreales	order	0.97	Clavicipitaceae	family	0.67	Atkinsonella	genus	0.2
+denovo603		Root	rootrank	1.0	Animalia	domain	0.86	Metazoa	phylum	0.86	Ecdysozoa	class	0.38	Ecdysozoa incertae sedis	genus	0.38
+denovo737		Root	rootrank	1.0	Animalia	domain	0.81	Metazoa	phylum	0.81	Ecdysozoa	class	0.38	Ecdysozoa incertae sedis	genus	0.38
+denovo761		Root	rootrank	1.0	Animalia	domain	0.59	Metazoa	phylum	0.59	Ecdysozoa	class	0.44	Ecdysozoa incertae sedis	genus	0.44
+denovo830		Root	rootrank	1.0	Animalia	domain	0.73	Metazoa	phylum	0.73	Ecdysozoa	class	0.28	Ecdysozoa incertae sedis	genus	0.28
+denovo948		Root	rootrank	1.0	Fungi	domain	0.65	Chytridiomycota	phylum	0.14	Chytridiomycetes	class	0.14	Spizellomycetales	order	0.07	Spizellomycetaceae	family	0.02	Spizellomyces	genus	0.02
+denovo952		Root	rootrank	1.0	Fungi	domain	1.0	Chytridiomycota	phylum	1.0	Chytridiomycetes	class	1.0	Chytridiales	order	1.0	Chytridiales incertae sedis	family	1.0	Pseudorhizidium	genus	1.0
+denovo976		Root	rootrank	1.0	Fungi	domain	0.96	Ascomycota	phylum	0.87	Sordariomycetes	class	0.8	Hypocreales	order	0.71	Nectriaceae	family	0.67	Gibberella	genus	0.65
